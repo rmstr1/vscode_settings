@@ -1,0 +1,29 @@
+ 
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorCustomizations": {
+        //"editor.selectionBackground": "#a88f00",
+        "editor.selectionHighlightBackground": "#a88f00"
+    },
+    
+    "workbench.colorTheme": "Monokai",
+    "git.enableSmartCommit": true,
+    "python.linting.pylintEnabled": false,
+    "editor.tabSize": 4,
+    "editor.rulers": [80,120],
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "gitlens.advanced.messages": {
+        "suppressResultsExplorerNotice": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.codeLens.enabled": false,
+    "gitlens.gitExplorer.enabled": false,
+    "gitlens.blame.avatars": false,
+    "gitlens.blame.compact": true,
+    "gitlens.hovers.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "rust.mode": "legacy"
+}
